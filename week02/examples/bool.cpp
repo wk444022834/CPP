@@ -11,4 +11,4 @@ int main()
     cout << "b2=" << b2 << endl;
     cout << true << endl;
     return 0;
-}
+}hkjhgkj
